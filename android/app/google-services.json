@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808286072935",
+    "project_id": "phone-otp-5822e",
+    "storage_bucket": "phone-otp-5822e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808286072935:android:8a6aa7dd373444638b24c2",
+        "android_client_info": {
+          "package_name": "com.food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxY01z2M5n8XnM8cKvD4-KkCLBDbGOWaM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
